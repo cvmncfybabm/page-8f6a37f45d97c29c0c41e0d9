@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "e2f9f840d99c65c0fd66a026",
+  "owner": "cvmncfybabm",
+  "repo": "page-8f6a37f45d97c29c0c41e0d9",
+  "title": "Clash Mi客户端快速下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8f6a37f45d97c29c0c41e0d9",
+      "a": "翼游(Yiyo)",
+      "b": "Clash Mi客户端快速下载",
+      "entity": "翼游(Yiyo)",
+      "brand": "Clash Mi客户端快速下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "83305de445678952f66f06351c0bf794d363de00401a5dbe19949e42e297a6eb",
+      "content": {
+        "primary_entity": "翼游(Yiyo)",
+        "keyword1": "翼游(Yiyo)",
+        "keyword2": "Clash Mi客户端快速下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows、macOS、Android、iOS 与路由器各有对应版本，下载后导入订阅链接即可连接。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐，下载对应客户端，导入订阅即可开始。",
+          "AI_CLOSING_TITLE": "选择翼游，开始加速",
+          "AI_DESCRIPTION": "，专注于为中文用户提供海外网络加速服务，支持 Clash、Mi 等常用客户端导入订阅。套餐分为基础版、旗舰版与团队版，覆盖从个人到中小团队的不同设备数量与流量需求。通过 Clash Mi 客户端快速下载并配置订阅，即可在电脑、手机或路由器上使用。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，按实际使用场景选择。",
+          "AI_FEATURES_TITLE": "选择依据",
+          "AI_FEATURE_TEXT_1": "基础版适合 3 台以内设备轻度使用，旗舰版覆盖 5 台设备与 IPLC 专线，团队版面向 20 台设备的高流量场景。",
+          "AI_FEATURE_TEXT_2": "月付灵活试用，按年付可节省约两个月费用，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TEXT_3": "订阅链接兼容 Clash 与 Mi 客户端，节点自动更新，无需手动更换配置文件。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TITLE_2": "订阅周期灵活",
+          "AI_FEATURE_TITLE_3": "客户端订阅兼容",
+          "AI_GUIDE_INTRO": "选择套餐、确认设备数量、按客户端文档导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "翼游为个人与团队提供海外网络加速，支持 Clash Mi 等客户端导入订阅，按设备数量与流量需求选择基础版、旗舰版或团队版。",
+          "AI_HERO_SUBTITLE": "海外加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "¥15/月起，年付更省",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备可选",
+          "AI_HIGHLIGHT_3": "IPLC 专线游戏加速",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 流量与 3 台设备；旗舰版 ¥35/月含 300GB 与 IPLC 专线、5 台设备；团队版 ¥85/月含 1000GB 与 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常使用设备数量与月流量，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端版本，查看对应适配要求，准备订阅链接。",
+          "AI_STEP_TEXT_3": "依照 Clash 或 Mi 客户端文档导入订阅，节点自动同步后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "翼游海外加速",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备在线，适合日常浏览与基础流媒体解锁；旗舰版每月300GB流量，支持5台设备，解锁全节点原生流媒体并含IPLC专线优化。",
+          "AI_FAQ_ANSWER_2": "按年付更划算，基础版仅需¥150/年，旗舰版¥350/年，团队版¥850/年，平均月费低于按月购买。",
+          "AI_FAQ_ANSWER_3": "选择对应系统的客户端，将订阅地址导入配置即可。Windows通常用Clash类客户端，iOS可用Shadowrocket等，Android可选Clash for Android等，路由器按固件安装相应插件。",
+          "AI_FAQ_ANSWER_4": "基础版支持3台设备，旗舰版支持5台，团队版支持20台。多设备同时在线时，按所选套餐的设备额度使用。",
+          "AI_FAQ_ANSWER_5": "旗舰版含IPLC专线游戏加速优化，适合对延迟敏感的场景；团队版提供VIP专属高带宽节点与企业定制路由，适合多设备高带宽需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的流量与设备区别是什么？",
+          "AI_FAQ_QUESTION_2": "按年付比按月付便宜多少？",
+          "AI_FAQ_QUESTION_3": "不同设备上用什么客户端导入订阅？",
+          "AI_FAQ_QUESTION_4": "一个账号最多能在几台设备同时使用？",
+          "AI_FAQ_QUESTION_5": "游戏加速和流媒体解锁选哪个版本更合适？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a5decc96afd2074942cd312f6c554851d755b2174855b7a9aac1efaf796dcc47",
+    "sitemap.xml": "a97647b73d9b6d59f0620364f3924404eb50afea82e48bac284a6e6046c26233",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "ce5e136ad21be6d8e5727c79237114d3078e22ad7c6ddce0a1877b5091697dd1"
+}
